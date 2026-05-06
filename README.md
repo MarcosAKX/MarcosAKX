@@ -9,10 +9,9 @@
 
 ## 👋 Sobre mim
 
-- 🐍 Dev backend em **Python**
-- 🏍️ Amante de motos e de código que roda sem travar
-- 🔧 Construo APIs, serviços e automações
-- ☕ Combustível favorito: café + adrenalina
+- 🐍 Backend com foco em **Python** — APIs, automações e integrações
+- 📚 Aprendizado contínuo como hábito, não obrigação
+- 🏍️ Apaixonado por motos — mecânica, customização e a cultura ao redor
 - 🌱 Sempre aprendendo algo novo (ou debugando algo velho)
 
 > *"Código limpo e curvas fechadas — ambos exigem controle."*

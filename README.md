@@ -32,6 +32,7 @@
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MarcosAKX&theme=github-dark&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MarcosAKX=anuraghazra&show_icons=true&theme=transparent)
 </div>
 
 ---

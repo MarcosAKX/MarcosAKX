@@ -15,7 +15,7 @@
 - 🏀 Fã de basquete — dentro e fora do código, trabalho em equipe importa
 - 🏍️ Apaixonado por motos e pela cultura ao redor delas
 
-> *"Entender o processo é metade da solução — a outra metade é automatizá-lo."*
+> *"Em evolução constante — do suporte ao desenvolvimento."*
 
 ---
 

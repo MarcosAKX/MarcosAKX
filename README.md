@@ -20,8 +20,7 @@
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=MarcosAKX&theme=github-dark&hide_border=true)
 
 ---
 

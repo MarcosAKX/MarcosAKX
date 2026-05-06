@@ -2,7 +2,7 @@
 
 # 🏍️ Marcos Vinicius Pereira
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F7C948&center=true&vCenter=true&width=435&lines=Backend+Dev+%26+Moto+Enjoyer;Python+Enthusiast;Sempre+na+estrada+%F0%9F%8F%8D%EF%B8%8F)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=E6EDF3&center=true&vCenter=true&width=435&lines=Backend+Dev+%26+Python+Enjoyer)
 
 </div>
 

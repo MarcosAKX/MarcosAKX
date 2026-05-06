@@ -2,15 +2,14 @@
 
 # 🏍️ Marcos Vinicius Pereira
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=E6EDF3&center=true&vCenter=true&width=435&lines=Backend+Dev+%26+Python+Enjoyer)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F7C948&center=true&vCenter=true&width=435&lines=Backend+Dev+%26+Python+Enjoyer)
 </div>
 
 ---
 
 ## 👋 Sobre mim
 
-- 🐍 Dev backend apaixonado por **Python**
+- 🐍 Dev backend em **Python**
 - 🏍️ Amante de motos e de código que roda sem travar
 - 🔧 Construo APIs, serviços e automações
 - ☕ Combustível favorito: café + adrenalina

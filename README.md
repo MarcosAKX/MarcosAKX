@@ -9,12 +9,13 @@
 
 ## 👋 Sobre mim
 
-- 🐍 Backend com foco em **Python** — APIs, automações e integrações
-- 📚 Aprendizado contínuo como hábito, não obrigação
-- 🏍️ Apaixonado por motos — mecânica, customização e a cultura ao redor
-- 🌱 Sempre aprendendo algo novo (ou debugando algo velho)
+- 🖥️ Atuando em **Suporte de TI** (N0/N1) — atendimento, triagem e resolução de chamados
+- 🐍 Estudando **Python** com foco em automações e desenvolvimento backend
+- 🎓 Cursando **Sistemas de Informação** e sempre buscando evoluir na área
+- 🏀 Fã de basquete — dentro e fora do código, trabalho em equipe importa
+- 🏍️ Apaixonado por motos e pela cultura ao redor delas
 
-> *"Código limpo e curvas fechadas — ambos exigem controle."*
+> *"Entender o processo é metade da solução — a outra metade é automatizá-lo."*
 
 ---
 

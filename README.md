@@ -32,7 +32,12 @@
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MarcosAKX&theme=github-dark&hide_border=true)
-![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosAKX&show_icons=true&bg_color=00000000)
+<a href="https://github.com/MarcosAKX">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarcosAKX" />
+</a>
+<a href="https://github.com/MarcosAKX">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcosAKX&layout=compact&langs_count=8&card_width=320" />
+</a>
 </div>
 
 ---

@@ -21,23 +21,16 @@
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![MarcosAKX GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcosAKX&show_icons=true&theme=github_dark&hide_border=true&title_color=F7C948&icon_color=F7C948)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAKX&layout=compact&theme=github_dark&hide_border=true&title_color=F7C948)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=MarcosAKX&theme=github-dark&hide_border=true)
 </div>
 
 ---
